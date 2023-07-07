@@ -37,5 +37,8 @@
   },
   "type": "module",
   "description": "SvelteKit with Skeleton UI",
-  "author": "Moon Dev Node <moondevnode@gmail.com>"
+  "author": "Moon Dev Node <moondevnode@gmail.com>",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
 }
